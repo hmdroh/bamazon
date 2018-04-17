@@ -3,6 +3,8 @@
 ###### _By Hamed Rohani_
 Welcome to the Bamazon project!
 
+"Note this program is a CLI program"
+
 This project basically is for purchasing items in the inventory using nodejs and mysql.
 
 #Installation:

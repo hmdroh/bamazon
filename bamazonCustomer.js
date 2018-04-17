@@ -1,15 +1,3 @@
-// lets get started!
-//
-
-//1. run this command: 
-//          npm init
-//2. install mysql: 
-//          npm i mysql
-//3. install inquirer: 
-//          npm i inquirer
-
-//4. install console.table
-//          npm i console.table
 
 //loading our libraries:
 var mysql = require("mysql");
